@@ -11,7 +11,7 @@ pip install pyautogui
 # Google_Image_Scraper.py
 This script prints links to images from Google Images to the consol. First navigate to images.google.com, then search for the images you want. After you hit search, click on the first image that comes up and copy the link. Paste the link to
 ```
-driver.get("your link)
+driver.get("your link")
 ```
 This is your starting page. Adjust how many images you want to search for in
 ```
